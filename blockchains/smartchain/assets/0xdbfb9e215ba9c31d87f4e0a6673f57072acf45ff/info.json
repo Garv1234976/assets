@@ -7,10 +7,13 @@
   "website": "https://futuredigiassets.com/fda/",
   "explorer": "https://bscscan.com/token/0xDBFb9e215ba9C31d87F4e0a6673f57072aCf45Ff",
   "status": "active",
-  "id": "0xDBFb9e215ba9C31d87F4e0a6673f57072aCf45Ff",
-  "links": [
-    { "name": "youtube", "url": "https://www.youtube.com/@FutureDigitalAssets" },
-    { "name": "telegram", "url": "https://t.me/futuredigiasset" },
-    { "name": "website", "url": "https://futuredigiassets.com/fda/" }
-  ]
+  "address": "0xDBFb9e215ba9C31d87F4e0a6673f57072aCf45Ff",
+  "chainId": 56,
+  "logoURI": "https://raw.githubusercontent.com/Garv1234976/assets/main/blockchains/smartchain/assets/0xDBFb9e215ba9C31d87F4e0a6673f57072aCf45Ff/logo.png",
+  "extensions": {
+    "website": "https://futuredigiassets.com/fda/",
+    "twitter": "",
+    "telegram": "https://t.me/futuredigiasset",
+    "youtube": "https://www.youtube.com/@FutureDigitalAssets"
+  }
 }
